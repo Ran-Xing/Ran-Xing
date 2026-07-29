@@ -16,4 +16,4 @@
 
 #### Statistical data   |   Welcome To The Public Account
 
-![XRSec's GitHub top-langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Ran-Xing&layout=compact) ![XRSec's GitHub stats](https://github-stats-extended.vercel.app/api?username=RAN-XING&count_private=true&theme=cobalt)
+![XRSec's GitHub top-langs](https://github-stats-extended.vercel.app/api/top-langs/?username=RAN-XING&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&show_icons=true) ![XRSec's GitHub stats](https://github-stats-extended.vercel.app/api?username=RAN-XING&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
