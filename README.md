@@ -1,13 +1,13 @@
 <div align="center">
 
-
 ### Hi there, I'm 星冉 (Ran-Xing / XRSec) 👋
 
 **AI Agent Infrastructure Builder · Security Engineer · Cross-Platform Developer**
 
 ![Ran-Xing](https://img.shields.io/badge/Ran--Xing-XRSec-da282a?style=flat-square&logo=github)
-![Motto](https:[REDACTED_PASSWORD]@XRSec-0f172a?style=flat-square&logo=github)](https://github.com/XRSec)
-[![Email](https:[REDACTED_PASSWORD]@outlook.com-da282a?style=flat-square&logo=minutemailer&logoColor=white)](mailto:Jalapeno1868@outlook.com)
+![Motto](https://img.shields.io/badge/低调求发展-潜心习安全-da282a?style=flat-square)
+[![Org](https://img.shields.io/badge/Org-XRSec-0f172a?style=flat-square&logo=github)](https://github.com/XRSec)
+[![Email](https://img.shields.io/badge/Email-Jalapeno1868%40outlook.com-da282a?style=flat-square&logo=minutemailer&logoColor=white)](mailto:Jalapeno1868@outlook.com)
 [![Blog](https://img.shields.io/badge/Blog-xrsec.vercel.app-da282a?style=flat-square&logo=vercel)](https://xrsec.vercel.app)
 
 </div>
