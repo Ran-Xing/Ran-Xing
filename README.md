@@ -1,6 +1,5 @@
 <div align="center">
 
-![Banner](2022-07-06%2023.52.23.png)
 
 ### Hi there, I'm 星冉 (Ran-Xing / XRSec) 👋
 
