@@ -14,7 +14,7 @@ Lately, most of my time goes into local-first desktop tools and the plumbing aro
 
 If you want to swap notes on local agents, MCP tooling, macOS/Android quirks, or self-hosted setups:
 - Email: [Jalapeno1868@outlook.com](mailto:Jalapeno1868@outlook.com)
-- Blog: [xrsec.vercel.app](https://xrsec.vercel.app)
+- Blog: [blog.xrsec.fun](https://blog.xrsec.fun)
 - Org: [github.com/XRSec](https://github.com/XRSec)
 
 <br />
